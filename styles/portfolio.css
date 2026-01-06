@@ -71,7 +71,7 @@ nav .menu a {
 }
 
 #banner .banner-content {
-  max-width: 585px;
+  max-width: 627px;
 }
 
 #banner .banner-content h2 {
@@ -83,6 +83,7 @@ nav .menu a {
 
 #banner .banner-content h1 {
   font-size: 85px;
+  font-weight: bold;
   color: #181818;
   margin-bottom: 20px;
 }
