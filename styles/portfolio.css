@@ -222,8 +222,8 @@ nav .menu a {
   padding-bottom: 30px;
 }
 
-.resume-card {
-  max-width: 511px;
+.education .resume-card {
+  width: 511px;
   margin-right: 47px;
 }
 
@@ -246,7 +246,7 @@ nav .menu a {
   line-height: 28px;
 }
 
-
-
-
+.experience {
+  text-align: right;
+}
 
