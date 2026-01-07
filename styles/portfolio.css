@@ -194,6 +194,7 @@ nav .menu a {
 
 #resume {
   padding-top: 100px;
+  max-height: 877px;
 }
 
 #resume .section-heading {
@@ -203,7 +204,6 @@ nav .menu a {
 .resume-container {
   width: 71%;
   max-width: 1140px;
-  max-height: 877px;
   margin: 113px auto 0;
 }
 
